@@ -1,9 +1,14 @@
 # fake-product-review--detection-system
 📌 Introduction
+
+
 The Fake Product Review Detection System is a machine learning-based project designed to identify whether a product review is genuine or fake. With the rapid growth of e-commerce platforms, fake reviews have become a major issue that misleads customers and affects business credibility.
 
 
 🎯 Objectives
+
+
+
 Detect fake and genuine product reviews accurately
 Improve customer trust in online platforms
 Reduce misleading information in e-commerce
@@ -13,6 +18,9 @@ Provide a simple and user-friendly dashboard interface
 
 
 ⚙️ How It Works
+
+
+
 *Data Collection
 Import dataset containing product reviews
 *Data Preprocessing
@@ -31,6 +39,10 @@ Display results using dashboard (Power BI / Streamlit)
 
 
 📊 Outcome
+
+
+
+
 Successfully classified reviews as fake or genuine
 Achieved good accuracy using ML models
 Built an interactive dashboard for visualization
